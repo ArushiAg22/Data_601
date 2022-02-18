@@ -1,0 +1,5 @@
+Labels are missing for plots in both homework and lab!
+Everything looks excellent apart from that! 
+
+hw: 90
+lab: 95
